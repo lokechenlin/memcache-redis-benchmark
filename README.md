@@ -46,7 +46,11 @@
 | Memory used for 100K job object | 206M | 405.75M (set) |
 | Memory used for 100K job object (hmset) | - | 944.89M (hmset) |
 
-
+### Summary
+- Redis performance drop significantly with string larger than ~1300 chars.
+- Redis good in handling json object
+- Both Memcached and Redis able to maintain the performance with 500k key entries.
+- Memory usage is high for Redis, need seek for optimization
 
 
 
