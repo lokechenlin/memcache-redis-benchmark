@@ -1,14 +1,14 @@
 {
-  "advertisement_id": 2061190,
-  "job_id": 2064708,
-  "advertiser_id": 202,
-  "profile_id": 227,
+  "advertisement_id": 8888888,
+  "job_id": 8888888,
+  "advertiser_id": 888,
+  "profile_id": 888,
   "language": {
-    "code": 3
+    "code": 2
   },
   "industry": {
-    "code": 5,
-    "name": "Apparel",
+    "code": 1,
+    "name": "dummy",
     "seo_url": "apparel-jobs"
   },
   "company_name": "12415123",
@@ -16,7 +16,7 @@
   "employment_types": [
     {
       "code": 1,
-      "name": "Full-Time"
+      "name": "dummy"
     }
   ],
   "specializations": [
@@ -25,7 +25,7 @@
       "roles": [
         {
           "primary_flag": true,
-          "code": 1361,
+          "code": 13611,
           "name": "Statistician/Mathematician",
           "seo_url": "statistician-mathematician-jobs"
         }
@@ -40,36 +40,36 @@
       "roles": [
         {
           "primary_flag": true,
-          "code": 1026,
+          "code": 1333,
           "name": "IT Executive/MIS",
           "seo_url": "it-executive-mis-jobs"
         }
       ],
-      "code": 193,
+      "code": 124,
       "name": "IT/Computer - Network/System/Database Admin",
-      "short_name": "IT - Network/Sys/DB Admin",
+      "short_name": "IT - Network/Sys/DB dummy",
       "seo_url": "system-network-database-admin-jobs"
     }
   ],
   "position_level": {
-    "code": 8,
-    "name": "Senior Executive"
+    "code": 7,
+    "name": "Senior dummy"
   },
   "years_of_experience": {
     "code": 3,
     "name": "3"
   },
   "salary_currency": {
-    "code": 2,
+    "code": 1,
     "name": "SGD"
   },
   "min_monthly_salary": 2500,
   "max_monthly_salary": 3500,
   "salary_display_flag": true,
-  "unpaid_internship_flag": false,
+  "dummy_internship_flag": false,
   "work_locations": [
     {
-      "code": 70100,
+      "code": 12100,
       "name": "Singapore",
       "state": {
         "code": "SG ",
@@ -82,7 +82,7 @@
       "second_work_locations": []
     },
     {
-      "code": 70140,
+      "code": 43140,
       "name": "East",
       "state": {
         "code": "SG ",
@@ -98,8 +98,8 @@
   "work_auth_relevant_flag": true,
   "qualifications": [
     {
-      "code": 4,
-      "name": "Higher Secondary/STPM/\"A\" Level/Pre-U"
+      "code": 1,
+      "name": "Higher Secondary/dummy/\"A\" Level/Pre-U"
     }
   ],
   "field_of_studies": [],
@@ -112,60 +112,60 @@
   ],
   "resume_receiver_emails": [],
   "status": {
-    "code": 1,
+    "code": 2,
     "name": "Posted"
   },
   "source": {
     "code": 1,
-    "name": "JobStreet.com"
+    "name": "abc dot"
   },
   "sites": [
     {
       "code": 2,
-      "name": "sg"
+      "name": "dummy"
     }
   ],
-  "blind_flag": false,
-  "posting_date": "2015-10-27T17:07:53+08:00",
-  "application_deadline": "2015-11-26T17:07:53+08:00",
-  "ea_personnel_id": null,
-  "placement_type": [],
-  "placement_fees": [],
-  "principal_desc": null,
+  "abc_flag": false,
+  "dummy_date": "2015-10-27T17:07:53+08:00",
+  "dummy_deadline": "2015-11-26T17:07:53+08:00",
+  "abc_id": null,
+  "banana_type": [],
+  "durian_fees": [],
+  "durian_desc": null,
   "map_latitude": 6.336943,
   "map_longitude": 100.284585,
-  "google_map_url": "http://open.mapquestapi.com/staticmap/v4/getmap?size=450,450&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
-  "map_address": "Jobstreet.Com Sdn Bhd Bukit Jambul Bayan Lepas Penang Malaysia",
+  "google_map_url": "http://open.Dummy.com/staticmap/v4/getmap?size=450,450&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
+  "map_address": "Dummy Dot Com Sdn Bhd Bukit Dummy Dummy Dummy Dummy Dummy",
   "map": {
     "latitude": 6.336943,
     "longitude": 100.284585,
-    "address": "Jobstreet.Com Sdn Bhd Bukit Jambul Bayan Lepas Penang Malaysia",
+    "address": "Dummy Dot Com Sdn Bhd Bukit Dummy Dummy Dummy Dummy Dummy",
     "static_url": {
-      "desktop": "http://open.mapquestapi.com/staticmap/v4/getmap?size=460,460&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
-      "tablet": "http://open.mapquestapi.com/staticmap/v4/getmap?size=350,350&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
-      "mobile": "http://open.mapquestapi.com/staticmap/v4/getmap?size=294,294&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr"
+      "desktop": "http://open.Dummy.com/staticmap/v4/getmap?size=460,460&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
+      "tablet": "http://open.Dummy.com/staticmap/v4/getmap?size=350,350&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
+      "mobile": "http://open.Dummy.com/staticmap/v4/getmap?size=294,294&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr"
     },
-    "preview_url": "http://www.mapquest.com/?le=t&q=6.336943,100.284585&center=6.336943,100.284585&zoom=14&maptype=map"
+    "preview_url": "http://www.Dummy.com/?le=t&q=6.336943,100.284585&center=6.336943,100.284585&zoom=14&maptype=map"
   },
   "header": "",
   "poi_train_info": [],
   "job_status": {
     "code": 1,
-    "name": "Open"
+    "name": "Dummy"
   },
   "url": "2015/10/new/1/3008/2061190.htm",
   "formatted_urls": [
     {
-      "sg": "http://www-dev.jobstreet.com.sg/en/job/2064708/origin/my"
+      "sg": "http://www-dev.dummy.com.sg/en/job/9999999/origin/my"
     }
   ],
-  "oa_url": null,
+  "dummy_url": null,
   "work_location_desc": null,
-  "jela_flag": false,
+  "dummy_flag": false,
   "apply_question_flag": false,
-  "online_test_flag": false,
-  "volunteer_job_flag": false,
+  "dummy_test_flag": false,
+  "dummy_job_flag": false,
   "end_date": "2015-11-26T00:00:00+08:00",
   "language_requirements": [],
-  "slug": "test-repost-2064708"
+  "dummyg": "test-repost-2064708"
 }
