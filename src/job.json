@@ -1,0 +1,171 @@
+{
+  "advertisement_id": 2061190,
+  "job_id": 2064708,
+  "advertiser_id": 202,
+  "profile_id": 227,
+  "language": {
+    "code": 3
+  },
+  "industry": {
+    "code": 5,
+    "name": "Apparel",
+    "seo_url": "apparel-jobs"
+  },
+  "company_name": "12415123",
+  "position_title": "Test Repost",
+  "employment_types": [
+    {
+      "code": 1,
+      "name": "Full-Time"
+    }
+  ],
+  "specializations": [
+    {
+      "primary_flag": true,
+      "roles": [
+        {
+          "primary_flag": true,
+          "code": 1361,
+          "name": "Statistician/Mathematician",
+          "seo_url": "statistician-mathematician-jobs"
+        }
+      ],
+      "code": 103,
+      "name": "Actuarial Science/Statistics",
+      "short_name": "Actuarial/Statistics",
+      "seo_url": "actuarial-science-statistics-jobs"
+    },
+    {
+      "primary_flag": false,
+      "roles": [
+        {
+          "primary_flag": true,
+          "code": 1026,
+          "name": "IT Executive/MIS",
+          "seo_url": "it-executive-mis-jobs"
+        }
+      ],
+      "code": 193,
+      "name": "IT/Computer - Network/System/Database Admin",
+      "short_name": "IT - Network/Sys/DB Admin",
+      "seo_url": "system-network-database-admin-jobs"
+    }
+  ],
+  "position_level": {
+    "code": 8,
+    "name": "Senior Executive"
+  },
+  "years_of_experience": {
+    "code": 3,
+    "name": "3"
+  },
+  "salary_currency": {
+    "code": 2,
+    "name": "SGD"
+  },
+  "min_monthly_salary": 2500,
+  "max_monthly_salary": 3500,
+  "salary_display_flag": true,
+  "unpaid_internship_flag": false,
+  "work_locations": [
+    {
+      "code": 70100,
+      "name": "Singapore",
+      "state": {
+        "code": "SG ",
+        "name": "Singapore"
+      },
+      "country": {
+        "code": "SG",
+        "name": "Singapore"
+      },
+      "second_work_locations": []
+    },
+    {
+      "code": 70140,
+      "name": "East",
+      "state": {
+        "code": "SG ",
+        "name": "Singapore"
+      },
+      "country": {
+        "code": "SG",
+        "name": "Singapore"
+      },
+      "second_work_locations": []
+    }
+  ],
+  "work_auth_relevant_flag": true,
+  "qualifications": [
+    {
+      "code": 4,
+      "name": "Higher Secondary/STPM/\"A\" Level/Pre-U"
+    }
+  ],
+  "field_of_studies": [],
+  "skills": [],
+  "job_description": "Candidate Candidate Candidate Candidate Candidate Can Candidate Candidate Mu must possess at least a Higher Secondary/Pre-U/&quot;A&quot; Level, any field. At least 3 year(s) of working experience in the related field is required for this position.Preferably Senior Executives specializing in Actuarial Science/Statistics, IT/Computer - Network/System/Database Admin or equivalent.Full-Time position(s) available.",
+  "selling_points": [
+    "155",
+    "255",
+    "355"
+  ],
+  "resume_receiver_emails": [],
+  "status": {
+    "code": 1,
+    "name": "Posted"
+  },
+  "source": {
+    "code": 1,
+    "name": "JobStreet.com"
+  },
+  "sites": [
+    {
+      "code": 2,
+      "name": "sg"
+    }
+  ],
+  "blind_flag": false,
+  "posting_date": "2015-10-27T17:07:53+08:00",
+  "application_deadline": "2015-11-26T17:07:53+08:00",
+  "ea_personnel_id": null,
+  "placement_type": [],
+  "placement_fees": [],
+  "principal_desc": null,
+  "map_latitude": 6.336943,
+  "map_longitude": 100.284585,
+  "google_map_url": "http://open.mapquestapi.com/staticmap/v4/getmap?size=450,450&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
+  "map_address": "Jobstreet.Com Sdn Bhd Bukit Jambul Bayan Lepas Penang Malaysia",
+  "map": {
+    "latitude": 6.336943,
+    "longitude": 100.284585,
+    "address": "Jobstreet.Com Sdn Bhd Bukit Jambul Bayan Lepas Penang Malaysia",
+    "static_url": {
+      "desktop": "http://open.mapquestapi.com/staticmap/v4/getmap?size=460,460&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
+      "tablet": "http://open.mapquestapi.com/staticmap/v4/getmap?size=350,350&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr",
+      "mobile": "http://open.mapquestapi.com/staticmap/v4/getmap?size=294,294&type=map&pois=mcenter,6.336943,100.284585|&zoom=14&center=6.336943,100.284585&imagetype=GIF&key=Fmjtd%7Cluur25ur21%2Cbs%3Do5-9w75qr"
+    },
+    "preview_url": "http://www.mapquest.com/?le=t&q=6.336943,100.284585&center=6.336943,100.284585&zoom=14&maptype=map"
+  },
+  "header": "",
+  "poi_train_info": [],
+  "job_status": {
+    "code": 1,
+    "name": "Open"
+  },
+  "url": "2015/10/new/1/3008/2061190.htm",
+  "formatted_urls": [
+    {
+      "sg": "http://www-dev.jobstreet.com.sg/en/job/2064708/origin/my"
+    }
+  ],
+  "oa_url": null,
+  "work_location_desc": null,
+  "jela_flag": false,
+  "apply_question_flag": false,
+  "online_test_flag": false,
+  "volunteer_job_flag": false,
+  "end_date": "2015-11-26T00:00:00+08:00",
+  "language_requirements": [],
+  "slug": "test-repost-2064708"
+}
