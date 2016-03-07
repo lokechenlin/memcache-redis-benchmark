@@ -47,7 +47,7 @@
 
 ### Summary
 - Redis performance drop significantly with string larger than ~1300 chars.
-- Redis good in handling json object
+- Redis good in handling json object using hmset. Even using set / get for json encoded string is much better than Memcached.
 - Both Memcached and Redis able to maintain the performance with 500k key entries.
 - Memory usage is high for Redis, need seek for optimization
 
