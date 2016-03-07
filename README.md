@@ -4,10 +4,8 @@
 - Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz 
 - CPU cores: 2
 - Memory: 6 GB
-- Redis Version: 3.0.7 
-- Redis Client: predis/predis 1.0
-- Memcached Version: 1.4.25 
-- Memcached Client: PHP Memcached 2.2
+- Redis (Server Version: 3.0.7; Client: predis/predis 1.0)
+- Memcached (Server Version: 1.4.25; Client: PHP Memcached 2.2)
 
 ### Test Cases
 | Test Cases        | Memcached           | Redis  |
