@@ -1,4 +1,4 @@
-# memcache-redis-benchmark
+# Memcached & Redis Benchmark
 ### Environment
 - Local Vagrant 
 - Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz 
