@@ -46,11 +46,19 @@
 | Memory used for 100K job object | - | 356.88M (set, msgpack) |
 | Memory used for 100K job object (hmset) | - | 944.89M (hmset) |
 
+| Test Cases (Using Ref Specializations) | Memcached   | Redis  |
+| ------------- |:-------------:| -----:|
+| Set 1000 times with reference/specializations (existing code) | ~1.8s | ~4.5s |
+| Get 1000 times with reference/specializations (existing code) | ~2.0s | ~2.8s |
+| Get 1000 times with reference/specializations (Direct using predis with json_encode) | - | ~0.9s |
+| Set 1000 times with reference/specializations Direct using predis with json_encode) | - | ~1.6s | 
+
 ### Summary
 - Redis performance drop significantly with string larger than ~1300 chars.
 - Redis good in handling json object using hmset. Even using set / get for json encoded string is much better than Memcached.
 - Both Memcached and Redis able to maintain the performance with 500k key entries.
-- Memory usage is high for Redis, need seek for optimization
+- Cannot direct switch cache driver for existing system. Need further test or switch to use Redis Cache Library.
+- Memory usage is high for Redis, need seek for optimization.
 
 
 
