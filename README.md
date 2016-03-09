@@ -43,6 +43,7 @@
 | Set 1000 times with json (job object) 5000 chars | ~5.5s | ~1.4s |
 | Get 1000 times with json (job object) 5000 chars | ~5.3s | ~0.92s | 
 | Memory used for 100K job object | 206M | 405.75M (set) |
+| Memory used for 100K job object | - | 356.88M (set, msgpack) |
 | Memory used for 100K job object (hmset) | - | 944.89M (hmset) |
 
 ### Summary
